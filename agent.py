@@ -1,5 +1,3 @@
-# agent.py
-
 from tools import google_tool
 from transformers import pipeline
 import os
