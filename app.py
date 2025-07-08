@@ -1,5 +1,3 @@
-# app.py
-
 import streamlit as st
 from utils import get_retriever_from_pdf
 from agent import answer_from_pdf, is_weak_answer, answer_from_google
